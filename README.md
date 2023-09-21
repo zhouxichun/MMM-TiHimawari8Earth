@@ -14,4 +14,4 @@ git clone https://github.com/zhouxichun/MMM-TiHimawari8Earth.git
    }  
 
 # Screenshot  
-https://github.com/zhouxichun/MMM-TiHimawari8Earth/blob/main/2023-09-21-120149_1920x1080_scrot.png
+![image](https://github.com/zhouxichun/MMM-TiHimawari8Earth/blob/main/2023-09-21-120149_1920x1080_scrot.png)
