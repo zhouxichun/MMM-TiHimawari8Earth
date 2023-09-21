@@ -1,6 +1,10 @@
 # MMM-TiHimawari8Earth  
 This is a  MagicMirror module that fetch earth live image form Himawari #8 geostationary satellite and  display images on screen.
 
+# Dependencies
+nodejs: ^14.21.3
+MagicMirror: ~2.24.0
+
 # Installation  
 Clone this repository in your modules folder, and install dependencies:  
 cd ~/MagicMirror/modules  
