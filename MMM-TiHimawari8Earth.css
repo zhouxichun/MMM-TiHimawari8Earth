@@ -1,0 +1,25 @@
+.MMM-TiHimawari8Earth .images{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+.MMM-TiHimawari8Earth .image {
+  position: absolute;
+  top: 50%;  
+  left: 50%;
+  transform: translate(-50%,-50%) rotate(23deg);
+}
+.MMM-TiHimawari8Earth .image {
+  background-repeat: no-repeat;
+  animation-timing-function: linear;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+}
+
+.MMM-TiHimawari8Earth .imageGray {
+  filter: grayscale(1);
+}
+
+
