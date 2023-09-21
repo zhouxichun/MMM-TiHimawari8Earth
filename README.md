@@ -12,3 +12,6 @@ git clone https://github.com/zhouxichun/MMM-TiHimawari8Earth.git
  	position: 'fullscreen_below',  
   	config: {}  
    }  
+
+# Screenshot  
+https://github.com/zhouxichun/MMM-TiHimawari8Earth/blob/main/2023-09-21-120149_1920x1080_scrot.png
